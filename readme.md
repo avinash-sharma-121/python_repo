@@ -52,3 +52,12 @@ olleh
 olleh
 olleh
 ```
+
+Check Palindrom - If we are reading form left to right or from right to left it must be same 
+                ex :- 121 -> palindrom,  nitin -> palindrom
+				   :- 123-> not palindrome, abcd -> not palindrome
+
+
+check Armstrong no - An Armstrong number (or narcissistic number) is a positive integer equal to the sum of its own digits each raised to the power of the total number of 	digits. For 
+				ex :- 153 is an Armstrong number because \(1^{3}+5^{3}+3^{3}=153\), 
+				   :- 1634 is one because \(1^{4}+6^{4}+3^{4}+4^{4}=1634\). 

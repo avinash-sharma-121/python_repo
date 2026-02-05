@@ -15,3 +15,13 @@ c=str(b)
 
 print("Number of digits:",len(c))
 
+# count the difits with log
+
+from math import *
+
+def count_digits(n):
+    if n == 0:
+        return 1
+    return log10(n)+1
+
+print("Number of digits:",int(count_digits(1234523422332)))
