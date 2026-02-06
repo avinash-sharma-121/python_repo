@@ -61,3 +61,7 @@ Check Palindrom - If we are reading form left to right or from right to left it 
 check Armstrong no - An Armstrong number (or narcissistic number) is a positive integer equal to the sum of its own digits each raised to the power of the total number of 	digits. For 
 				ex :- 153 is an Armstrong number because \(1^{3}+5^{3}+3^{3}=153\), 
 				   :- 1634 is one because \(1^{4}+6^{4}+3^{4}+4^{4}=1634\). 
+
+Learning about hasing - We have to deal with list/tupple/dict for hasing (number hashing and char hashing)
+
+Learning about Recursion 
