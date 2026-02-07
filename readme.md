@@ -44,14 +44,7 @@ Run the reverse string script to see different methods for reversing a string:
 python DSA/1_reverse_string.py
 ```
 
-**Output Example:**
-```
-olleh
-<reversed object at ...>
-olleh
-olleh
-olleh
-```
+**Learning Topic:**
 
 Check Palindrom - If we are reading form left to right or from right to left it must be same 
                 ex :- 121 -> palindrom,  nitin -> palindrom
@@ -64,4 +57,4 @@ check Armstrong no - An Armstrong number (or narcissistic number) is a positive 
 
 Learning about hasing - We have to deal with list/tupple/dict for hasing (number hashing and char hashing)
 
-Learning about Recursion 
+Learning about Recursion - Implemneted head and tail recursion basic
