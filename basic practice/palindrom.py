@@ -12,5 +12,25 @@ def is_palindrome(n):
     else:
         return False
     
-print(is_palindrome(121))
-print(is_palindrome(123))
+#print(is_palindrome(121))
+#print(is_palindrome(123))
+
+
+# check char palindrom
+
+a="nitin"
+
+def palindrome(a):
+    l=0
+    r=len(a)-1
+    while l<r:
+        if a[l]==a[r]:
+            l+=1
+            r-=1
+            continue
+        else:
+            return False
+    
+    return True
+
+print(palindrome(a))        
