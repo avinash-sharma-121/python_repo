@@ -58,3 +58,6 @@ check Armstrong no - An Armstrong number (or narcissistic number) is a positive 
 Learning about hasing - We have to deal with list/tupple/dict for hasing (number hashing and char hashing)
 
 Learning about Recursion - Implemneted head and tail recursion basic
+
+Learned about fibonacchi series
+
