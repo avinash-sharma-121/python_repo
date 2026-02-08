@@ -61,3 +61,4 @@ Learning about Recursion - Implemneted head and tail recursion basic
 
 Learned about fibonacchi series
 
+Learned about shorting selection sort, bubble sort (Pratice done), need to do hands on insertion sort.
