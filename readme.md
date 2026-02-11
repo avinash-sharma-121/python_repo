@@ -63,4 +63,4 @@ Learned about fibonacchi series
 
 Learned about shorting selection sort, bubble sort (Pratice done), need to do hands on insertion sort.
 
-Learned about sorting merge sort, 
+Learned about sorting merge sort, quck sort also we have done
