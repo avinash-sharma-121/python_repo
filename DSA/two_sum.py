@@ -1,7 +1,7 @@
 a=[1,2,6,4,3,9,8,5]
 
 #Brute force mathod
-target=18
+target=9
 def two_sum(target):
     for i in range(len(a)):
         for j in range(i,len(a)):
