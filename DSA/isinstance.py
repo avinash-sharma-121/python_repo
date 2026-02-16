@@ -22,5 +22,6 @@ arr=[0]*26  #using this we can create array of 26 lenght in python
 #  🥉 3. Remove Duplicates from Sorted Array - done
 # 🏅 5. Valid Palindrome - 
 # Need to study bit manupulation - done
-#traping rain water - 
+#traping rain water - done
+
 

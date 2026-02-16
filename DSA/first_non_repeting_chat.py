@@ -2,9 +2,9 @@
 
 #first method using hash_map
 
-a="swissabcaambbcwi"
+a="swissbcbbmcwia"
 
-hash_map={}
+hash_map={} #using dict
 
 for i in range(len(a)):
     if a[i] in hash_map:

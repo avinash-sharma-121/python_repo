@@ -1,6 +1,6 @@
 a=5
 
-print(a << 1)
+print(a << 2)
 
 #<< left shift
 #print(5 << 1)
